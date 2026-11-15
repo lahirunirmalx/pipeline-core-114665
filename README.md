@@ -1,2 +1,3 @@
 # pipeline-core-114665
-Scratch project
+
+Side project notes.
